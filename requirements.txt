@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-openai
+langchain-qdrant
+langchain-community
+pymupdf
+ragas
+rank_bm25
+flashrank
+datasets
+pandas
